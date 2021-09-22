@@ -1,0 +1,3 @@
+NÉV;KOR;NEME;Munk.ÉV
+Pál;21;F;3
+Petra;23;L;2
