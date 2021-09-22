@@ -1,6 +1,0 @@
-﻿NÉV;KOR;NEME;Munk.ÉV
-Pál;21;F;3
-Ede;28;F;9
-Petra;23;L;2
-Edit;19;L;1
-Xénia;29;L;6
